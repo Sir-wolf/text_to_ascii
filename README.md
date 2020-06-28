@@ -1,4 +1,4 @@
-![](https://tenor.com/view/gif-17652052)
+![](https://media1.tenor.com/images/713b07033bafac1f94737d5e85b42eb6/tenor.gif?itemid=17652052)
 # text_to_ascii
 text_to_ascii tools write in python
 ## Installation
