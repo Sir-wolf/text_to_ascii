@@ -18,10 +18,9 @@ fi
  echo "[✔] Installing ...";
  echo "";
  cd /home/text_to_ascii;
- git clone https://github.com/Sir-wolf/hash.git;
- chmod +x hashtools.py
- chmod +x unhash.py
- pip3 install hashlib
+ git clone https://github.com/Sir-wolf/text_to_ascii.git;
+ chmod +x menu.sh
+ pip3 install pyfiglet 
 
 
 if [ -d "/home/text_to_ascii" ] ;
