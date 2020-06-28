@@ -1,4 +1,4 @@
-![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.intesisbox.com%2Fintesis%2Fprotocol%2Finternal-ascii-1494583208.png%3Fv%3D2.1&f=1&nofb=1)
+![](https://media.tenor.com/images/cf6a84ae1322aa01c4ffbb0d17857549/tenor.gif)
 # text_to_ascii
 text_to_ascii tools write in python
 ## Installation
